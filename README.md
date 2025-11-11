@@ -1,0 +1,1 @@
+# strut-issue-draft-5
